@@ -1,6 +1,7 @@
 # MSc-Thesis-Cryptocurrency-Price-Forecasting-Using-BERT-Based-Sentiment
 
 Cryptocurrency Return Prediction Using Investor Sentiment Extracted by BERT-Based Classifiers From News Articles, Reddit Posts and Tweets
+
 Master's thesis project for the program of M.Sc. Economics and Management Science at Humboldt University of Berlin
 
 --by Duygu Ider   https://www.linkedin.com/in/duyguider/
