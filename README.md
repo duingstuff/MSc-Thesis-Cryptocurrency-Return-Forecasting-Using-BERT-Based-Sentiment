@@ -9,7 +9,7 @@ Outline of the project and what each script/notebook does:
 PART 1: BERT-Based Sentiment Classification
 1. _price_data_scrape.ipynb_ - Scrape price data for Bitcoin and Ethereum
 2. _news_scraper_final.ipynb_, _reddit_scraper_final.ipynb_, _twitter_scraper_final.py_ - Scrape news, Reddit and Tweets data
-3. weak labeling exp
+3. _weak_labels_approach.py_ - Use Financhial Phrasebank data (Malo et. al, 2014) to label it with pseudo-labels predicted by BART zero-shot classifier, fit a BERT-based classifier, evaluate model performance in the case of weak labels
 4. _combine_text_data_zsc_finbert.py_ - Combine the price and text data to a single dataset, predict sentiment using zero-shot classifier (BART) and FinBERT to assign weak labels
 5. _bert_crypto_hyperparam_optimal_and_zsc.ipynb_ - Perform grid search hyperparameter optimization to the process of fine-tuning BERT-based classifiers. The implemented models are BERT-Unfrozen, BERT-Frozen and BERT-Context
 
