@@ -6,6 +6,8 @@ Master's thesis project for the program of M.Sc. Economics and Management Scienc
 
 --by Duygu Ider   https://www.linkedin.com/in/duyguider/
 
+Please find the paper here: https://arxiv.org/abs/2204.05781
+
 Outline of the project and what each script/notebook does:
 
 PART 1: BERT-Based Sentiment Classification
