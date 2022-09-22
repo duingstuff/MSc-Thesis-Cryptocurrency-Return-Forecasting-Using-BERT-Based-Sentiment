@@ -20,3 +20,4 @@ PART 1: BERT-Based Sentiment Classification
 PART 2: Return Prediction and Trading Simulation
 1. _data_prep_for_financial_models.py_ - Prepare the combined dataset as an input for the financial models. Add price, macroeconomic, blockchain features and weekday dummies
 2. _return_prediction_trading_simulation.ipynb_ - Load data, add technical analsis features to the dataset, lag defined features by a certain lag amount, plot some intermediate outputs, perform elimination by variance inflation factor to analyze sentiment feature contribution, fit all cryptocurrency return predictors using Bayesian hyperparameter optimization, perform trading simulation over multiple test periods, create a clearly defined output table of all prediction results
+3. _return_prediction_trading_simulation_(rnn_added_pipeline_implemented).ipynb_ - RNN and LSTM added as financial forecasting models, compared to the previous script
